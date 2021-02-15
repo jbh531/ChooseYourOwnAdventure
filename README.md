@@ -11,5 +11,7 @@ Concepts Covered:
 - Java Swing: JFrame, JButtons, JTextAreas, JLabels, JScrollPanes
 - Comments: Functionality of user-created methods and lines included
 
-Coming soon: 
-- A video demoing this project
+Demo:
+https://youtu.be/yZmgfY7k2bI
+
+- TW: This game does use the word suicide
